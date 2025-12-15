@@ -1,0 +1,1 @@
+# TIMI-RedmiBook-Pro-14S-open-core-1.06
