@@ -27,8 +27,6 @@
 | 声卡 | 瑞昱 @ AMD High Definition Audio 控制器 |
 | 摄像头 | XiaoMi USB 2.0 Webcam |
 
-![硬件信息截图](./images/hardware.png)
-
 ---
 
 ## 🍏 macOS 系统信息
