@@ -12,6 +12,9 @@
 
 ---
 
+### 1. 下载 EFI 文件
+下载地址:https://www.123865.com/ps/HiZ0Vv-GxnNh
+
 ## 🖥️ 硬件规格
 
 | 项目 | 规格 |
@@ -80,7 +83,7 @@
 - ✅ 用力点击（Force Click）支持
 - ✅ 静默点按可关闭
 
-![触控板设置](./触摸板.png)
+![触控板设置](./触控板.png)
 
 ---
 
@@ -104,7 +107,7 @@
 - **自动调节亮度**: ✅ 开启
 - **夜览模式**: 可用
 
-![显示器设置](./images/display_settings.png)
+![显示器设置](./hidpi.pn)
 
 ---
 
@@ -115,7 +118,7 @@
 - **音频输出**: 内置扬声器 & 麦克风可用
 - **声音控制**: 系统音量条正常响应
 
-![系统控件](./images/control_center.png)
+![系统控件](./声卡.png)
 
 ---
 
@@ -129,25 +132,3 @@
 
 - [OpenCore Configurator](https://github.com/OpenCore-Legacy-Patcher/OpenCore-Configurator) – 配置 EFI 的可视化工具
 - [Hackintool](https://github.com/dortania/Hackintool) – 硬件检测与补丁生成
-
----
-
-## 📸 图片预览
-
-以下为实际运行效果截图：
-
-![](./images/desktop_1.png)  
-*桌面主界面*
-
-![](./images/desktop_2.png)  
-*系统控件与通知中心*
-
----
-
-## 📩 联系我
-
-如有问题欢迎留言
-
----
-
-> ✅ **提示**：请将所有截图图片放入仓库的 `./images/` 文件夹中，并确保文件名与 Markdown 中引用的一致（如 `hardware.png`, `system_overview.png` 等）。
