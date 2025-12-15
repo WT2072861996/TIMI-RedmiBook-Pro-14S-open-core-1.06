@@ -39,7 +39,7 @@
 - **内存**: 16 GB 3200 MHz DDR4
 - **显卡**: AMD Radeon RX Graphics 2 GB
 
-![系统概览](./images/system_overview.png)
+![系统概览](./关于本机.png)
 
 ---
 
