@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./配置图.jpg" alt="EFI 配置总览" width="200" />
-</p>
-
 # 🍏 TIMI RedmiBook Pro 14S 锐龙版 · OpenCore Hackintosh
 
 <p align="center">
