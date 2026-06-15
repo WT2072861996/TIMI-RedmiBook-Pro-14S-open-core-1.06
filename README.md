@@ -1,4 +1,4 @@
-# 🍏 TIMI RedmiBook Pro 14S 锐龙版 · OpenCore Hackintosh
+# 🍏 TIMI RedmiBook Pro 14S 锐龙版 - OpenCore Hackintosh
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-Sonoma_14.8.2-0071BC?logo=apple&logoColor=white" alt="macOS" />
