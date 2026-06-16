@@ -66,3 +66,14 @@ Click thumbnails for full resolution.
 - [OpenCore Configurator](https://github.com/OpenCore-Legacy-Patcher/OpenCore-Configurator)
 - [Hackintool](https://github.com/dortania/Hackintool)
 - [ProperTree](https://github.com/corpnewt/ProperTree)
+
+
+---
+
+## 📄 许可证
+
+MIT License - 详见 [LICENSE](LICENSE)
+
+> ⚠️ 本教程仅供学习和研究使用
+
+
